@@ -161,7 +161,7 @@ section { padding: 5rem 0; }
 {
     width: 100%;
     height: 100vh;
-    background: url("/images/hero_background.jpg") center no-repeat;
+    background: url("./images/hero_background.jpg") center no-repeat;
     background-size: cover;
     display: flex;
     align-items: center;
@@ -308,7 +308,7 @@ section { padding: 5rem 0; }
 
 /* SECTION OFFER */
 
-.offer { background: linear-gradient(to right, rgba(250,158,44,0.8), rgba(143,80,251, 0.8)), url("/images/the_paradise_bg.jpg") bottom center no-repeat; background-size: cover; }
+.offer { background: linear-gradient(to right, rgba(250,158,44,0.8), rgba(143,80,251, 0.8)), url("./images/the_paradise_bg.jpg") bottom center no-repeat; background-size: cover; }
 
 .offer-content
 {
